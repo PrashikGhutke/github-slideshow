@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to The World Of Programming!"
 ---
-Your text
+My Life My Journey
 Use the left arrow to go back!
